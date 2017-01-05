@@ -1,0 +1,2 @@
+# dream-smilez
+We are a Dental Clinic based in Bangalore, India. Dream Smilez Dental Clinic is a new sister addition to our first branch, Prakruthi Dental Clinic, which is over 14 years old and 5000+ patients strong. Our new clinic is in an upmarket location, and is fitted with world class equipment and amenities. We want our website to reflect the time-tested trust established by Prakruthi Dental Clinic, and the modern, efficient and state of the art services provided by Dream Smilez Super Specialty Dental Clinic. 
