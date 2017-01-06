@@ -12,3 +12,4 @@ npm-debug.log
 
 # APP IGNORES
 node_modules
+bower_components
